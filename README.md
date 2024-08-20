@@ -1,6 +1,6 @@
 # Hello, I’m Tulsano 👋
 
-I am a recent CS graduate eager to pursue a career in software engineering! 
+I am a recent CS graduate eager to pursue a career in software engineering and web development! 
 
 I am always working to improve my skills in programming languages and problem solving. I wish to spark creativity for the greater good!
 
