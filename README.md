@@ -8,5 +8,5 @@ I am always working to improve my skills in programming languages and problem so
 
 * 👨‍💻 Java, Python, TypeScript, SQL, and learning more
 * 💻 Interested in software engineering and app development
-* 🌱 In addition, I am currently invovled in an ambitious startup
+* 🌱 In addition, I am currently involved in an ambitious startup
 * 🧸 Exploring new hobbies/interests- currently looking at graphic design and content creation
